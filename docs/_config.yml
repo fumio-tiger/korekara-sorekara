@@ -1,6 +1,6 @@
 remote_theme: "jekyll/minima"
-title: My Blog
-description: GitHub Pages で作るシンプルブログ
+title: これから、それから
+description: たいしたものではないです
 permalink: /:year/:month/:day/:title/
 
 url: "https://fumio-tiger.github.io"
