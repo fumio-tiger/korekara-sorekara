@@ -1,5 +1,5 @@
 ---
-title: "first post"
+title: "初めての投稿"
 ---
 
 # 初めての記事
