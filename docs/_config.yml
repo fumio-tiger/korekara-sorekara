@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: "jekyll/minima"
 title: My Blog
 description: GitHub Pages で作るシンプルブログ
 permalink: /:year/:month/:day/:title/
