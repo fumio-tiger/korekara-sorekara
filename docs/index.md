@@ -1,7 +1,3 @@
----
-title: "ようこそ"
----
-
 GitHub Pages + Jekyll テーマのブログです。
 
 - Markdown で書けます
