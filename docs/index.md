@@ -5,4 +5,12 @@ GitHub Pages + Jekyll テーマのブログです。
 - 自動でテーマが適用されます
 
 ## 最新記事
-まだ記事はありません。
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
