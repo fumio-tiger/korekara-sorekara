@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: My Blog
 description: GitHub Pages で作るシンプルブログ
 permalink: /:year/:month/:day/:title/
+
+url: "https://fumio-tiger.github.io"
+baseurl: "/korekara-sorekara"
